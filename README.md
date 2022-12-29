@@ -6,7 +6,7 @@
 </h3>
 
 <p>
-<a href="https://github.com/sahilsaim1919/kaali_Linux_2"><img src="https://img.shields.io/badge/kaali_Server%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
+<a href="https://github.com/sahilsaim1919/kaali_Linux_2"><img src="https://img.shields.io/badge/𝐃𝐄𝐕𝐈𝐋 _𝐒𝐄𝐑𝐕𝐄𝐑 %20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
 
 
 <p align="center"><a href="https://t.me/ham_sath_hai"><img src="https://te.legra.ph/file/2721e5ac250e4ae4f2190.jpg"></a></p>
