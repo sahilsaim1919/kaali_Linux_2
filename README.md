@@ -9,7 +9,7 @@
 <a href="https://github.com/sahilsaim1919/kaali_Linux_2"><img src="https://img.shields.io/badge/𝐃𝐄𝐕𝐈𝐋 _𝐒𝐄𝐑𝐕𝐄𝐑 %20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
 
 
-<p align="center"><a href="https://t.me/ham_sath_hai"><img src="https://te.legra.ph/file/2721e5ac250e4ae4f2190.jpg"></a></p>
+<p align="center"><a href="https://t.me/sabyahaapnehai"><img src="https://te.legra.ph/file/2721e5ac250e4ae4f2190.jpg"></a></p>
 
 ### 🥀 [𝐃𝐄𝐕𝐈𝐋 𝐋𝐢𝐧𝐮𝐱](https://t.me/sabyahaapnehai) : 🍁 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐒𝐞𝐫𝐯𝐞𝐫 📡 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐀𝐧𝐝 💞 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐁𝐲 » [𝐃𝐄𝐕𝐈𝐋](https://t.me/misterjack18) ✨
 
@@ -25,3 +25,11 @@
 <p align="center">
 <a href="http://t.me/misterjack18"><img src="https://img.shields.io/badge/%20​𝑶𝑾𝑵𝑬𝑹 -blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+<h3 align="center">
+    ─「 ᴄʀᴇᴅɪᴛs 」─
+</h3>
+
+
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ 𝐃𝐄𝐕𝐈𝐋](https://github.com/sahilsaim1919) ғᴏʀ [𝐃𝐄𝐕𝐈𝐋 ꪑꪊ𝘴𝓲ᥴ ʙᴏᴛ](https://github.com/sahilsaim1919/devil_X_Music_bot)_ </b>
+ 
