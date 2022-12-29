@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/sahilsaim1919/kaali_Linux_2"><img src="https://te.legra.ph/file/e7c697574b982fd6eae25.jpg"></a></p>
+<p align="center"><a href="https://github.com/sahilsaim1919/Devil_Server"><img src="https://te.legra.ph/file/e7c697574b982fd6eae25.jpg"></a></p>
 
 
 <h3 align="center">
@@ -6,7 +6,7 @@
 </h3>
 
 <p>
-<a href="https://github.com/sahilsaim1919/kaali_Linux_2"><img src="https://img.shields.io/badge/𝐃𝐄𝐕𝐈𝐋 _𝐒𝐄𝐑𝐕𝐄𝐑 %20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
+<a href="https://github.com/sahilsaim1919/Devil_Server"><img src="https://img.shields.io/badge/𝐃𝐄𝐕𝐈𝐋 _𝐒𝐄𝐑𝐕𝐄𝐑 %20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
 
 
 <p align="center"><a href="https://t.me/sabyahaapnehai"><img src="https://te.legra.ph/file/2721e5ac250e4ae4f2190.jpg"></a></p>
@@ -31,5 +31,5 @@
 </h3>
 
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ 𝐃𝐄𝐕𝐈𝐋](https://github.com/sahilsaim1919) ғᴏʀ [𝐃𝐄𝐕𝐈𝐋 _𝐒𝐄𝐑𝐕𝐄𝐑](https://github.com/sahilsaim1919/kaali_Linux_2)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ 𝐃𝐄𝐕𝐈𝐋](https://github.com/sahilsaim1919) ғᴏʀ [𝐃𝐄𝐕𝐈𝐋 _𝐒𝐄𝐑𝐕𝐄𝐑](https://github.com/sahilsaim1919/Devil_Server)_ </b>
  
