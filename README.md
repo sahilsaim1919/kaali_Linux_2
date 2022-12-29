@@ -31,5 +31,5 @@
 </h3>
 
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ 𝐃𝐄𝐕𝐈𝐋](https://github.com/sahilsaim1919) ғᴏʀ [𝐃𝐄𝐕𝐈𝐋 ꪑꪊ𝘴𝓲ᥴ ʙᴏᴛ](https://github.com/sahilsaim1919/devil_X_Music_bot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ 𝐃𝐄𝐕𝐈𝐋](https://github.com/sahilsaim1919) ғᴏʀ [𝐃𝐄𝐕𝐈𝐋 _𝐒𝐄𝐑𝐕𝐄𝐑](https://github.com/sahilsaim1919/kaali_Linux_2)_ </b>
  
