@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/sahilsaim1919/kaali_Linux_2"><img src="https://te.legra.ph/file/2721e5ac250e4ae4f2190.jpg"></a></p>
+<p align="center"><a href="https://github.com/sahilsaim1919/kaali_Linux_2"><img src="https://te.legra.ph/file/e7c697574b982fd6eae25.jpg"></a></p>
 
 
 <h3 align="center">
