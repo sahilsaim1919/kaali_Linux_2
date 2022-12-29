@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-<a href="http://t.me/misterjack18"><img src="https://img.shields.io/badge/%20🇸𝔸ꫝ𝑰𝙇 🇦​🅽🆆🅴🆁-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="http://t.me/misterjack18"><img src="https://img.shields.io/badge/%20​𝑶𝑾𝑵𝑬𝑹 -blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
