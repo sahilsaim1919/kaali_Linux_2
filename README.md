@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/sahilsaim1919/Devil_Server"><img src="https://te.legra.ph/file/e7c697574b982fd6eae25.jpg"></a></p>
+<p align="center"><a href="https://github.com/sahilsaim1919/Devil_Server"><img src="https://te.legra.ph/file/5692db4962a1e133d1b26.jpg"></a></p>
 
 
 <h3 align="center">
